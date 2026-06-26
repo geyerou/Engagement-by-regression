@@ -1,0 +1,42 @@
+# MATLAB
+*.asv
+*.m~
+*.mat
+*.fig
+*.mlx
+*.slx
+*.mlapp
+*.mex*
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Temp files
+*.tmp
+*.log
+*~
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Data files (if any)
+*.nii
+*.nii.gz
+*.gii
+*.csv
+*.tsv
+*.xlsx
+*.txt
+data/
+output/
+results/
